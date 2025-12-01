@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hood Melody",
+  "base_artist": "Carz",
+  "createdAt": "2025-12-01T14:25:10.093549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hood Melody (feat. Youngboy Never Broke Again)",
+      "artist": "DDG feat. OG Parker & YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/01_Hood_Melody_(feat._Youngboy_Never_Broke_Again)_DDG_feat._OG_Parker_&_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hood Melody",
+      "artist": "DDG & OG Parker feat. YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/02_Hood_Melody_DDG_&_OG_Parker_feat._YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hood Melody (feat. Youngboy Never Broke Again)",
+      "artist": "DDG; OG Parker; YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/03_Hood_Melody_(feat._Youngboy_Never_Broke_Again)_DDG;_OG_Parker;_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hood Melody",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/04_Hood_Melody_DDG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hood Melody ft. YoungBoy Never Broke Again (Official Music Vi...",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/05_Hood_Melody_ft._YoungBoy_Never_Broke_Again_(Official_Music_Vi..._DDG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hood Melody (feat. Youngboy Never Broke Again)",
+      "artist": "OG Parker",
+      "has_synced": true,
+      "path": "select/06_Hood_Melody_(feat._Youngboy_Never_Broke_Again)_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hood Melody (feat. Youngboy Never Broke Again)",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/07_Hood_Melody_(feat._Youngboy_Never_Broke_Again)_DDG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DDG & OG Parker - Hood Melody ft. YoungBoy Never Broke Again (Official Music Video)",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/08_DDG_&_OG_Parker_-_Hood_Melody_ft._YoungBoy_Never_Broke_Again_(Official_Music_Vid_DDG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hood Melody",
+      "artist": "Ddg, OG Parker",
+      "has_synced": true,
+      "path": "select/09_Hood_Melody_Ddg,_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hood Melody ft. YoungBoy Never Broke Again (Official Music Vi... (feat. YoungBoy Never Broke Again)",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/10_Hood_Melody_ft._YoungBoy_Never_Broke_Again_(Official_Music_Vi..._(feat._YoungBoy_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hood Melody",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/11_Hood_Melody_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hood Melody (feat. Youngboy Never Broke Again)",
+      "artist": "DDG / OG Parker",
+      "has_synced": true,
+      "path": "select/12_Hood_Melody_(feat._Youngboy_Never_Broke_Again)_DDG___OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hood Melody ft. YoungBoy Never Broke Again (Official Music Video) (feat. YoungBoy Never Broke Again)",
+      "artist": "OG Parker",
+      "has_synced": true,
+      "path": "select/13_Hood_Melody_ft._YoungBoy_Never_Broke_Again_(Official_Music_Video)_(feat._YoungBo_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hood Melody (Feat. YoungBoy Never Broke Again)",
+      "artist": "DDG x OG Parker",
+      "has_synced": true,
+      "path": "select/14_Hood_Melody_(Feat._YoungBoy_Never_Broke_Again)_DDG_x_OG_Parker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hood Melody (feat. Youngboy Never Broke Again) (Paused)",
+      "artist": "DDG",
+      "has_synced": true,
+      "path": "select/15_Hood_Melody_(feat._Youngboy_Never_Broke_Again)_(Paused)_DDG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hood Melody (feat. YoungBoy Never Broke Again)",
+      "artist": "DDG & OG Parker",
+      "has_synced": false,
+      "path": "select/pl_01_Hood_Melody_(feat._YoungBoy_Never_Broke_Again)_DDG_&_OG_Parker.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Hood Melody (feat. guca owl)",
+      "artist": "DDG & OG Parker",
+      "has_synced": false,
+      "path": "select/pl_02_Hood_Melody_(feat._guca_owl)_DDG_&_OG_Parker.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Hood Melody (feat. 197)",
+      "artist": "DDG & OG Parker",
+      "has_synced": false,
+      "path": "select/pl_03_Hood_Melody_(feat._197)_DDG_&_OG_Parker.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Hood Melody",
+      "artist": "DDG & OG Parker",
+      "has_synced": false,
+      "path": "select/pl_04_Hood_Melody_DDG_&_OG_Parker.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Hood Melody",
+      "artist": "DDG & OG Parker",
+      "has_synced": false,
+      "path": "select/pl_05_Hood_Melody_DDG_&_OG_Parker.txt"
+    }
+  ]
+}
